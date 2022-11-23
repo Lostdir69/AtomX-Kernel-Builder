@@ -36,7 +36,7 @@
 
 ############################## Setup AnyKernel #############################
 
-	gut Atom-X-Devs/AnyKernel3 main AnyKernel3
+	gut Lostdir69/AnyKernel3 main AnyKernel3
 
 ############################################################################
 
